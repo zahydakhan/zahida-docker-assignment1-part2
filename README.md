@@ -43,10 +43,10 @@ ff2c428413f7   python-djangopart2   "python3 manage.py r…"   6 minutes ago   U
 
 
 9. docker cp --- to copy a file to or from container or between containers and host
-![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/63552452-4cce-45c3-a0bc-f1b425399761)
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/9b2082a0-5172-40ef-bed0-c07ef14e1824)
 
 8. docker stats --- to view the resource usage of containers
    LOG:
-![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/656c7d71-5516-4aa8-8b73-465dd4761f57)
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/b8f9409c-4430-4903-9989-7eeee43297a7)
 
 9. 
