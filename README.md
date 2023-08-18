@@ -4,7 +4,9 @@
 ```
 docker run djangoapp
 ```
-![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/9c642b26-65fe-4980-88d2-731e8d50158b)
+
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/8bdcb590-bd65-44aa-9d4a-249da40e928f)
+
 
 ### Step3: Use Different Docker Container Commands
 1. docker ps                 ---- to show all the active containers
