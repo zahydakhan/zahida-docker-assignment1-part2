@@ -49,4 +49,25 @@ ff2c428413f7   python-djangopart2   "python3 manage.py r…"   6 minutes ago   U
    LOG:
 ![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/b8f9409c-4430-4903-9989-7eeee43297a7)
 
-9. 
+9. docker top  ----- view the running processes inside a container
+    ![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/4d18da62-61ec-4017-8ff1-d46666345b1f)
+
+10. docker stop ----- to stop a running container
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/e137aad6-667c-4a40-9256-7b7d4651eec9)
+    
+11. 'docker start' command to start a stopped container
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/4238980b-2633-4a52-befd-05ec70eeeef0)
+
+12.  'docker pause' command to pause a running container
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/820c71cc-6c7c-4c32-b135-850389bfd921)
+    
+13. 'docker unpause' command to unpause a paused container
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/0a8c6b4d-af32-4c70-9f08-6d7e23345489)
+
+14. 'docker rename' command to rename a container
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/f6213c55-06d0-4825-987a-e6daf18f9569)
+
+15. 'docker port' command to display the public-facing port that a container is listening on
+
+'docker update' command to update a container's resource limits
+'docker restart' command to restart a running container
