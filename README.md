@@ -68,6 +68,10 @@ ff2c428413f7   python-djangopart2   "python3 manage.py r…"   6 minutes ago   U
 ![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/f6213c55-06d0-4825-987a-e6daf18f9569)
 
 15. 'docker port' command to display the public-facing port that a container is listening on
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/58b9e9af-2579-4b24-934a-e9d135fe610b)
 
-'docker update' command to update a container's resource limits
-'docker restart' command to restart a running container
+16. 'docker update' command to update a container's resource limits
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/5c29096d-cd74-4514-8178-6b10c0284b11)
+
+17. 'docker restart' command to restart a running container
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/4a4bf34a-ff47-4c03-9df9-0279d0f27ff2)
