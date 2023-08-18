@@ -23,20 +23,24 @@ ff2c428413f7   python-djangopart2   "python3 manage.py r…"   6 minutes ago   U
    LOG:
    ff2c428413f7
 4. docker logs
-![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/4aa0ddb0-8f11-44f8-a8b2-a5541c043cd3)
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/e525a4c0-64f5-44f9-9028-0e4f6d78ed20)
 
-5. docker inspect ---- to inspect a container
+
+6. docker inspect ---- to inspect a container
    docker inspect 83aac4bdc6eed256021457ffce3bcd406295c5915fff45a2408b81082225b50f
 
-6. 'docker exec' ---- to run a command inside container
-   docker exec -d 83aac4bdc6eed256021457ffce3bcd406295c5915fff45a2408b81082225b50f touch execWorks 
+7. 'docker exec' ---- to run a command inside container
+   docker exec -d 83aac4bdc6eed256021457ffce3bcd406295c5915fff45a2408b81082225b50f touch execWorks
+   ![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/e04cb60c-33cb-4873-8285-5b7fb46148ea)
 
-7. docker attach
-![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/3830733d-a2ad-46bf-8516-e9e459ef2961)
 
-8. docker commit b8260f76b1f5112b9b547b0e9840b70cb078da25c580d25b3d40240752200011 --- to create a new image from a container
+9. docker attach
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/160354fe-394b-42da-a9a2-804151f09f61)
 
-![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/d9e05ef7-616f-439e-927f-cd3094396290)
+
+10. docker commit b8260f76b1f5112b9b547b0e9840b70cb078da25c580d25b3d40240752200011 --- to create a new image from a container
+![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/c8c01b50-7af8-4b46-95e3-f9578c2055e4)
+
 
 9. docker cp --- to copy a file to or from container or between containers and host
 ![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/63552452-4cce-45c3-a0bc-f1b425399761)
