@@ -4,8 +4,6 @@
 ```
 docker run djangoapp
 ```
-docker run python-djangopart2
-```
 ![image](https://github.com/zahydakhan/zahida-docker-assignment1-part2/assets/45081511/9c642b26-65fe-4980-88d2-731e8d50158b)
 
 ### Step3: Use Different Docker Container Commands
